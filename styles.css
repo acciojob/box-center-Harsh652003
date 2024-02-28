@@ -12,7 +12,7 @@ body {
 	background-color:lightblue;
 	width:200px;
 	height:200px;
-	border:1px solid black;
+	border:2px solid black;
 	color:purple;
 	display:flex;
 	justify-content:center;
